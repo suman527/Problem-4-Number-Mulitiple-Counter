@@ -1,0 +1,28 @@
+ body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      text-align: center;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    textarea {
+      width: 300px;
+      height: 30px;
+      resize: vertical;
+      margin-left: 120px;
+    }
+
+    button {
+      margin-top: 10px;
+     
+    }
+ pre {
+      margin-top: 20px;
+      white-space: pre-wrap;
+    }
+   
+  
